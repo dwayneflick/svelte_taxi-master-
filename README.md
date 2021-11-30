@@ -54,7 +54,7 @@ Please feel free to send pull request if you want to contribute!
 
 Authors
 
-Olawale Afuye
+Kingsley Edeh
 Setup
 For Contributors, Fork the Repo, Clone and push to forked Repo.
 
